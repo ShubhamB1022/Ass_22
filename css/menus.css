@@ -1,0 +1,45 @@
+.menus-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.menu-card{
+    background-color: #fff;
+    width: 270px;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 2px rgb(78, 78, 235);
+    border: 1px solid #001858;
+}
+
+.menu-card:hover{
+    box-shadow: 0px 0px 15px 2px  rgb(33, 33, 247);
+    transition: 0.5s
+}
+
+.menu-icon{
+    display: block;
+    margin: 10px auto;
+}
+
+.menu-order-btn{
+    background-color: #ee679b;
+    padding: 5px 25px;
+    border-radius: 20px;
+    border: none;
+    display: block;
+    margin: 5px auto;
+}
+
+.menu-order-btn:hover{
+    padding: 5px 35px;
+    transition: 0.5s;
+    cursor: pointer;
+    color: #fff;
+}
+
+.menu-discription{
+    font-size: 19px;
+}

@@ -1,0 +1,85 @@
+
+body {
+  background-color: #fef6e4;
+  padding: 0;
+  margin: 0;
+}
+
+.bg-light {
+  background-color: #fef6e4;
+}
+
+.bg-primary {
+  background-color: #f582ae;
+}
+
+.bg-secondary {
+  background-color: #8bd3dd;
+}
+
+.bg-tertiary{
+    background-color: #78f098;
+}
+
+.text-primary {
+  color: #f582ae;
+}
+
+.text-secondary {
+  color: blueviolet;
+}
+
+.text-tertiary{
+    color: darkgreen
+}
+
+.text-dark {
+  color: #172c66;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.dancing-script{
+    font-family: 'Dancing Script';
+}
+
+.caveat{
+    font-family: 'Caveat';
+}
+
+.btn{
+    padding: 10px 60px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 5px 15px #403e3d;
+    color: #172c66;
+    text-decoration: none;
+}
+
+.btn-primary{
+    background-color: #f582ae;
+}
+
+.btn-secondary{
+    background-color: #8bd3dd;
+}
+
+.btn-tertiary{
+        background-color: #78f098;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+.heading-size{
+    font-size: 70px;
+}
+
+.sub-heading-size{
+    font-size: 30px;
+}
+

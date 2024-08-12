@@ -1,0 +1,67 @@
+.subtitle{
+    color: blueviolet;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.why-to-visit{
+    margin: 70px 0;
+}
+
+.para-index{
+    color: darkgreen;
+    font-size: 25px;
+}
+
+.why-to-visit-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f3d2c1;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.why-to-visit-card{
+    background-color: #fff;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 0 20px 1px black;
+}
+
+.why-to-visit-img{
+    height: 70px;
+    display: block;
+    margin: 10px auto;
+}
+
+.why-to-visit-heading{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.header-section{
+    display: flex;
+}
+
+.header-img{
+    height: 350px;
+    width: 350px;
+    border: 10px solid #f3d2c1;
+    display: block;
+    margin: 20px auto;
+}
+
+.header-img-container{
+    width: 50%
+}
+
+.header-discription-container{
+    width: 50%;
+}
+
+.paragraph-index{
+    font-size: 20px;
+}
